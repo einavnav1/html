@@ -1,0 +1,42 @@
+img {
+   width: 200;
+   border: 2px solid red;
+   border-radius: 8px;
+   border-radius: 50%;
+}
+span {
+	color: red;
+}
+body {
+	background-color: pink;
+	font-family: Arial;
+	font-size: 24;
+}
+div {
+	font-family: Bradley Hand ITC;
+}
+#specialStyle {
+			 display: block;
+			 margin-left: auto;
+			 margin-right: auto;
+			 width: 50%;
+}
+#Italy {
+	width: 80%;
+	border: 2px solid white;
+	background-color: coral;
+}
+.center {
+     text-align: center;
+}
+
+.bigFont {
+	font-size: 30;
+}
+h3 {
+	background-color: yellow;
+}
+
+
+
+
