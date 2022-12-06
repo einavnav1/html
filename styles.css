@@ -9,6 +9,9 @@ span {
 }
 body {
 	background-image: url("https://cdn.pixabay.com/photo/2021/08/12/10/38/mountains-6540497_960_720.jpg");
+	background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
 	background-color: pink;
 	font-family: Aharoni;
 	font-size: 28;
