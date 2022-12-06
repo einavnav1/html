@@ -37,6 +37,9 @@ div {
 h3 {
 	background-color: yellow;
 }
+p.thick {
+  font-weight: bold;
+}
 
 
 
