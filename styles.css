@@ -9,6 +9,7 @@ span {
 }
 body {
 	background-image: url("https://cdn.pixabay.com/photo/2015/09/22/19/00/ship-952292__340.jpg");
+	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: pink;
 	font-family: Aharoni;
