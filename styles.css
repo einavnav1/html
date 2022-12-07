@@ -8,7 +8,7 @@ span {
 	color: red;
 }
 body {
-	background-image: url("https://cdn.pixabay.com/photo/2015/11/27/20/28/arno-river-1066307_960_720.jpg");
+	background-image: url("https://cdn.pixabay.com/photo/2020/11/20/07/45/lake-5760752__340.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-color: pink;
@@ -42,12 +42,7 @@ h3 {
 p.thick {
         font-weight: bold;
 }
-#BigImg {	
-	width: 400;
-        border: 2px solid red;
-        border-radius: 8px;
-        border-radius: 50%;
-}
+
 
 
 
