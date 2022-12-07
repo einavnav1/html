@@ -42,7 +42,7 @@ h3 {
 p.thick {
         font-weight: bold;
 }
-.BigImg {	
+#BigImg {	
 	width: 400;
         border: 2px solid red;
         border-radius: 8px;
