@@ -1,5 +1,5 @@
 img {
-   width: 300;
+   width: 250;
    border: 2px solid red;
    border-radius: 8px;
    border-radius: 50%;
@@ -19,10 +19,10 @@ div {
 	font-family: Bradley Hand ITC;
 }
 #specialStyle {
-			 display: block;
-			 margin-left: auto;
-			 margin-right: auto;
-			 width: 50%;
+		 display: block;
+        	 margin-left: auto;
+		 margin-right: auto;
+		 width: 50%;
 }
 #Italy {
 	width: 80%;
@@ -30,7 +30,7 @@ div {
 	background-color: coral;
 }
 .center {
-     text-align: center;
+        text-align: center;
 }
 
 .bigFont {
@@ -40,9 +40,14 @@ h3 {
 	background-color: yellow;
 }
 p.thick {
-  font-weight: bold;
+        font-weight: bold;
 }
-
+.BigImg {	
+	width: 400;
+        border: 2px solid blue;
+        border-radius: 8px;
+        border-radius: 50%;
+}
 
 
 
